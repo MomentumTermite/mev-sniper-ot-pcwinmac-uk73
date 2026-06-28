@@ -1,4 +1,4 @@
-# 
+# Open Source MEV sniper bot add-ons for Mac OS | Top MEV sniper bot add-ons for PC Windows. Featuring private rpc endpoints and mev extraction — optimized for maximum performance on every platform.
 
 
 
